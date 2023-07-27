@@ -2,16 +2,16 @@
     {
         "title": "Hello World",
         "time": "2019-06-07",
-        "file": "https://github.com/FrameSkip369/cloudflare-worker-blog/blob/master/posts/1.md"
+        "file": "posts/1.md"
     },
     {
         "title": "如何部署这个博客程序",
         "time": "2019-06-07",
-        "file": "https://github.com/FrameSkip369/cloudflare-worker-blog/blob/master/posts/2.md"
+        "file": "posts/2.md"
     },
     {
         "title": "如何编写文章",
         "time": "2019-06-07",
-        "file": "https://github.com/FrameSkip369/cloudflare-worker-blog/blob/master/posts/3.md"
+        "file": "posts/3.md"
     }
 ]
